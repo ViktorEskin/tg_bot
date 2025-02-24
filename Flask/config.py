@@ -6,6 +6,6 @@ load_dotenv()
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")  # токен от BotFather
 WEBHOOK_PATH = "/webhook"     # путь, который будет обрабатывать Flask
-USERNAME = "EntityEs"         # ваше имя на PythonAnywhere
-WEBHOOK_URL = f"https://{USERNAME}.pythonanywhere.com{WEBHOOK_PATH}"
+USERNAME = "SomeName"         # ваше имя на PythonAnywhere
+WEBHOOK_URL = f"https://{USERNAME}.someURL.com{WEBHOOK_PATH}"
 
