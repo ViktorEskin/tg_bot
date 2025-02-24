@@ -3,3 +3,4 @@ nltk==3.8.1  # Библиотека для обработки естествен
 sqlite-utils==3.36.0  # Утилиты для работы с SQLite
 google-api-python-client==2.121.0  # Клиент для работы с YouTube API
 python-dotenv==1.0.1  # Работа с переменными окружения
+gunicorn==20.1.0
