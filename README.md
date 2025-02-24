@@ -7,8 +7,8 @@
 - Управление видео через API YouTube
 
 Установите зависимости:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 Запустите бота:
-python bot_runner.py
+`python bot_runner.py`
